@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1aeb0bec-afe2-4731-a714-f2f464c6182b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Es4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Es4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tests_Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tests_Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/grafo/GrafoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/grafo/GrafoException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/grafo/Heap/HeapException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/grafo/Heap/HeapException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/grafo/ProvaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/grafo/ProvaMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/grafo/Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/grafo/Tests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/grafo/Values.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/grafo/Values.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/grafo/Dijkstra.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/grafo/Grafo.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/grafo/Heap/Heap.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/grafo/MainDijkstra.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/grafo/ProvaMain.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/grafo/Values.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BOjbje1p8zod7HcWVcZe6vpi4N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/danie/OneDrive/Documenti/Lezioni/Secondo anno/Algoritmi e Strutture dati/Laboratorio/OraleProgetto/progetto-algo-2021-2022/Esercizi/Esercizio_4",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\danie\IdeaProjects\Es4\src\grafo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\danie\IdeaProjects\Es4\src\grafo\Heap" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Tests">
+    <configuration name="MainDijkstra " type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="grafo.MainDijkstra" />
+      <module name="Es4" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;C:\\Users\\danie\\OneDrive\\Documenti\\Lezioni\\Secondo anno\\Algoritmi e Strutture dati\\Laboratorio\\Es 4\\Test\\italian_dist_graph.csv&quot;" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="grafo.Heap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProvaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="grafo.ProvaMain" />
+      <module name="Es4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="grafo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Es4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="grafo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="grafo" />
+      <option name="MAIN_CLASS_NAME" value="grafo.Tests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.testadjacencyVertex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Es4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="grafo.Heap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="grafo" />
+      <option name="MAIN_CLASS_NAME" value="grafo.Tests" />
+      <option name="METHOD_NAME" value="testadjacencyVertex" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.testlistofArchi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Es4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="grafo.Heap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="grafo" />
+      <option name="MAIN_CLASS_NAME" value="grafo.Tests" />
+      <option name="METHOD_NAME" value="testlistofArchi" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ProvaMain" />
+      <item itemvalue="Application.MainDijkstra " />
+      <item itemvalue="JUnit.Tests" />
+      <item itemvalue="JUnit.Tests.testadjacencyVertex" />
+      <item itemvalue="JUnit.Tests.testlistofArchi" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Tests" />
+        <item itemvalue="Application.ProvaMain" />
+        <item itemvalue="Application.MainDijkstra " />
+        <item itemvalue="JUnit.Tests.testlistofArchi" />
+        <item itemvalue="JUnit.Tests.testadjacencyVertex" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1aeb0bec-afe2-4731-a714-f2f464c6182b" name="Changes" comment="" />
+      <created>1656784104150</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656784104150</updated>
+      <workItem from="1656784106196" duration="4091000" />
+      <workItem from="1656949956897" duration="12637000" />
+      <workItem from="1657208145277" duration="6500000" />
+      <workItem from="1657380114835" duration="8008000" />
+      <workItem from="1657634897971" duration="11062000" />
+      <workItem from="1657722433752" duration="8970000" />
+      <workItem from="1657802529314" duration="8076000" />
+      <workItem from="1657814100660" duration="10854000" />
+      <workItem from="1657825701310" duration="50000" />
+      <workItem from="1657981965086" duration="6540000" />
+      <workItem from="1658089372438" duration="4409000" />
+      <workItem from="1658338775021" duration="2600000" />
+      <workItem from="1658408872033" duration="12663000" />
+      <workItem from="1658494825327" duration="4611000" />
+      <workItem from="1658503087990" duration="129000" />
+      <workItem from="1658504830251" duration="400000" />
+      <workItem from="1658505369282" duration="49000" />
+      <workItem from="1662826951276" duration="1165000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/grafo/Tests.java</url>
+          <line>295</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
